@@ -6,7 +6,7 @@ var ads = {
 		admob.cacheInterstitial();// load admob Interstitial
 	},
 	onInterstitialReceive: function(message) {//show in ad receive event fun
-		admob.showInterstitial();
+		//admob.showInterstitial();
 	}
 	
 };
